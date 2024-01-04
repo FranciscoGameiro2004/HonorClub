@@ -15,6 +15,11 @@ export default {
         DetailedResults,
         SummarySection,
     },
+    data() {
+      return {
+        key: value
+      }
+    },
 }
 </script>
 
