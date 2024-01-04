@@ -79,7 +79,8 @@
         {
             "minute":7,
             "type":"Try",
-            "player":0
+            "player":0,
+            "period":"first"
         }
     ],
     "statistics":{
